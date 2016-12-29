@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="MasterMind.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="549"/>
+        <CursorPos X="37" Y="561"/>
+        <FoldState Value=" T3m30H041y"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="bot.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="218"/>
+        <CursorPos X="38" Y="129"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="16" HistoryIndex="15">
+      <Position1>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="3" Column="15"/>
+      </Position1>
+      <Position2>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="441" Column="22" TopLine="431"/>
+      </Position2>
+      <Position3>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="3" Column="2"/>
+      </Position3>
+      <Position4>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="325" TopLine="301"/>
+      </Position4>
+      <Position5>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="292" Column="23" TopLine="276"/>
+      </Position5>
+      <Position6>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="290" Column="23" TopLine="273"/>
+      </Position6>
+      <Position7>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="21" Column="24"/>
+      </Position7>
+      <Position8>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="346" Column="21" TopLine="338"/>
+      </Position8>
+      <Position9>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="195" Column="51" TopLine="195"/>
+      </Position9>
+      <Position10>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="209" Column="101" TopLine="195"/>
+      </Position10>
+      <Position11>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="4" Column="4"/>
+      </Position11>
+      <Position12>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="263" Column="19" TopLine="244"/>
+      </Position12>
+      <Position13>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="346" Column="22" TopLine="305"/>
+      </Position13>
+      <Position14>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="35" Column="18" TopLine="23"/>
+      </Position14>
+      <Position15>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="209" Column="101" TopLine="189"/>
+      </Position15>
+      <Position16>
+        <Filename Value="MasterMind.lpr"/>
+        <Caret Line="251" Column="10" TopLine="210"/>
+      </Position16>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
